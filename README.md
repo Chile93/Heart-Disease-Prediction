@@ -1,0 +1,3 @@
+# Heart-Disease-Prediction
+
+This project investigates and compares the predictive efficacy of four machine learning models - Logistic Regression (LR), Naive Bayes, Support Vector Machines (SVM), and Decision Trees - in diagnosing heart disease. Leveraging a comprehensive dataset encompassing diverse patient attributes and clinical indicators, the study rigorously evaluates these models’ performance using standard metrics like accuracy, precision, recall, F1-score, and AUC-ROC. By analyzing the strengths and weaknesses of each model, the research aims to identify the most effective algorithm for enhancing heart disease prediction, potentially contributing to more precise diagnostic approaches and improved patient care.
